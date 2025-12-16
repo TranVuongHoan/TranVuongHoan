@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cedric Tran</h1>
 <h3 align="center">Final-year Commerce student majoring in Business Analytics at Monash University, passionate about transforming data into strategic insights.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranvuonghoan" alt="tranvuonghoan" /></a> </p>
 
 - 🔭 I’m currently working on **Building insightful dashboards, optimizing SQL workflows, and exploring patterns in real-world datasets to support data-driven decisions.**
 
